@@ -1,6 +1,6 @@
 # Lista de Compras
 ### Este é um projeto simples desenvolvido em React. Ele permite adicionar produtos a uma lista de compras e calcular o valor total com base nos itens adicionados ao carrinho.
-* link para visualizar a pliacão: https://listar-de-compras-ovekrq9cx-joaofilhoxs-projects.vercel.app/
+* link para visualizar a pliacão: https://listar-de-compras.vercel.app/
 
 ## Se preferir baixar e executar o projeto em sua própria máquina, siga os passos abaixo:
 Pré-requisitos
