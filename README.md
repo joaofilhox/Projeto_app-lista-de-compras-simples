@@ -1,8 +1,33 @@
-# React + Vite
+# Lista de Compras
+### Este é um projeto simples desenvolvido em React. Ele permite adicionar produtos a uma lista de compras e calcular o valor total com base nos itens adicionados ao carrinho.
+* link para visualizar a pliacão: https://listar-de-compras-ovekrq9cx-joaofilhoxs-projects.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Se preferir baixar e executar o projeto em sua própria máquina, siga os passos abaixo:
+Pré-requisitos
 
-Currently, two official plugins are available:
+* Node.js (v14 ou superior)
+* npm ou Yarn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Como rodar em sua maquina:
+
+1. Clone este repositório:
+```
+git clone https://github.com/seu-usuario/listar-de-frutas.git
+```
+Navegue até o diretório do projeto:
+```
+cd listar-de-compras
+```
+Instale as dependências:
+```
+npm install
+# ou
+yarn
+```
+
+Para rodar o projeto em modo de desenvolvimento:
+```
+npm run dev
+# ou
+yarn dev
+```
